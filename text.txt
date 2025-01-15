@@ -1,0 +1,4 @@
+npm install --save-dev nodemon
+npm run dev                           runing cmd
+npm install ejs
+npm install express
